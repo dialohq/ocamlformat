@@ -5,3 +5,5 @@
 /_opam
 /_coverage
 /_build-mingw64
+
+.direnv/
